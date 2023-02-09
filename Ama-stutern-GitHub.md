@@ -1,3 +1,3 @@
 # Ama
 
-Practical examples in programing.
+Practical examples in programing!
